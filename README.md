@@ -1,5 +1,3 @@
-Here’s a more descriptive and friendly **README.md** tailored to your awesome template:  
-
 ---
 
 # 🎉 React Native Starter Template 🚀  
