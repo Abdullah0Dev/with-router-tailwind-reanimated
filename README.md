@@ -1,4 +1,3 @@
----
 
 # 🎉 React Native Starter Template 🚀  
 Your go-to React Native CLI template packed with **amazing tools** for building robust apps quickly! 🎨  
@@ -10,7 +9,6 @@ This template includes:
 - 🎨 **React Native Vector Icons** for beautiful icons  
 - 🚀 A solid foundation with pre-configured libraries to jumpstart your next project  
 
----
 
 ## 🔥 Features  
 - **React Navigation**: Seamlessly handle navigation like a pro.  
